@@ -1,0 +1,11 @@
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\bin\Debug\netcoreapp2.2\ProyectoUno.deps.json
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\bin\Debug\netcoreapp2.2\ProyectoUno.runtimeconfig.json
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\bin\Debug\netcoreapp2.2\ProyectoUno.runtimeconfig.dev.json
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\bin\Debug\netcoreapp2.2\ProyectoUno.dll
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\bin\Debug\netcoreapp2.2\ProyectoUno.pdb
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\obj\Debug\netcoreapp2.2\ProyectoUno.csprojAssemblyReference.cache
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\obj\Debug\netcoreapp2.2\ProyectoUno.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\obj\Debug\netcoreapp2.2\ProyectoUno.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\obj\Debug\netcoreapp2.2\ProyectoUno.AssemblyInfo.cs
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\obj\Debug\netcoreapp2.2\ProyectoUno.dll
+C:\Users\Carlos\Documents\github carlos\ProyectoUno\obj\Debug\netcoreapp2.2\ProyectoUno.pdb
